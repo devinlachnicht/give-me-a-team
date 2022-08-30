@@ -37,4 +37,4 @@ Generated HTML
 ![](./assets/img/generated-HTML.png)
 
 ## Links
-<a href="" target="_blank">Walkthrough Video</a>
+<a href="https://drive.google.com/file/d/1Rr6E9OLdn5acWsU95ZSRHhIaXLw72JfK/view" target="_blank">Walkthrough Video</a>
